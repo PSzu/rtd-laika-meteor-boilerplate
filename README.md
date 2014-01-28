@@ -7,15 +7,15 @@ This allows to setup unit and automatic tests using RTD and integration tests us
 
 ## Usage:
 
-1. Clone repository
+### Clone repository
 
 * git clone --recursive https://github.com/PSzu/rtd-laika-meteor-boilerplate.git
 
-2. Setup boilerplate
+### Setup boilerplate
 
 * ./setup_boilerplate.sh
 
-3. Start meteor
+### Start meteor
 
 * cd app; meteor
 
