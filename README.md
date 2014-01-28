@@ -1,7 +1,7 @@
 # rtd-laika-meteor-boilerplate
 ==========================
 
-A boilerplate combining Meteor framework http://meteor.com, RTD test runner http://volvio.github.io and meteor boilerplate by https://github.com/matteodem that contains Laika test framework http://matteodem.github.io/meteor-boilerplate/
+A boilerplate combining Meteor framework http://meteor.com, RTD test runner http://volvio.github.io and meteor boilerplate http://matteodem.github.io/meteor-boilerplate/ that contains Laika test framework http://arunoda.github.io/laika/
 
 This allows to setup unit and automatic tests using RTD and integration tests using Laika.
 
