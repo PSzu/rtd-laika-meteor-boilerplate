@@ -1,0 +1,6 @@
+[submodule "test/rtd"]
+	path = test/rtd
+	url = git@github.com:xolvio/rtd.git
+[submodule "app"]
+	path = app
+	url = https://github.com/matteodem/meteor-boilerplate.git
