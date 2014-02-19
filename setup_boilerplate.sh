@@ -8,7 +8,7 @@ ROOT_FOLDER=`pwd`
 
 echo "Setting up RTD"
 cd test/rtd
-npm install
+npm install --save-optional
 
 echo "Setting up meteor boilerplate"
 cd $ROOT_FOLDER/app
